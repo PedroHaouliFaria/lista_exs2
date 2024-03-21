@@ -48,7 +48,11 @@ C) O código avalia a expressão booleana, imprime o resultado `true` e verifica
 
 D) O código avalia a expressão booleana, imprime o resultado `false` e ordena a lista de números em ordem crescente.
 
+```javascript
 
+A resposta é a letra B
+
+```
 ______
 
 **2)** Analise as funções calcularOrcamento() e calcularOrcamento2(). Num cenário em que a lista gastos fosse incializada como var gastos = [3600, 950, 620, 38] em ambas funções.
@@ -112,6 +116,12 @@ C) A saída de calcularOrcamento() seria: 'Seu saldo é negativo de -100.' e a d
 
 D) As funções calcularOrcamento() e calcularOrcamento2() teriam a mesma saída: 'Seu saldo é negativo de -100.'
 
+
+```javascript
+
+A resposta é a letra D
+
+```
 ______
 
 **3)** Considere o seguinte trecho de código em JavaScript:
@@ -139,7 +149,11 @@ C) O código verifica se o número é par, ímpar ou divisível por 3. Se for pa
 
 D) O código verifica se o número é par, se é divisível por 3 ou se é ímpar. Se for par, exibe a mensagem "O número é par!". Se for divisível por 3 (e não for par), exibe a mensagem "O número é divisível por 3!". Se for ímpar (e não for divisível por 3), exibe a mensagem "O número é ímpar e não é divisível por 3!".
 
+```javascript
 
+A resposta é a letra D
+
+```
 ______
 
 **4)** Qual será o resultado impresso no console após a execução desse código?
@@ -213,6 +227,12 @@ Compra 4 negada. Saldo insuficiente e limite de crédito excedido.
 
 Compra 5 negada. Saldo insuficiente e limite de crédito excedido.
 
+```javascript
+
+A resposta é a letra D
+
+```
+
 ______
 
 **5)** Qual é o principal ciclo de vida de um jogo em Phaser.js?
@@ -226,6 +246,12 @@ B) Preload -> Create -> Update
 C) Load -> Initialize -> Render
 
 D) Begin -> Play -> End
+
+```javascript
+
+A resposta é a letra B
+
+```
 ______
 
 **6)** Qual é o objetivo principal do módulo Arcade Physics em Phaser.js?
@@ -240,6 +266,12 @@ C) Criar efeitos de áudio para melhorar a experiência do usuário em jogos.
 
 D) Gerenciar a lógica do jogo e a sincronização de eventos em jogos multiplayer.
 
+
+```javascript
+
+A resposta é a letra B
+
+```
 ______
 
 # Questões dissertativas
